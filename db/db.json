@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy",
+      "color": "black",
+      "price": 1999,
+      "category": "phone",
+      "brand": "Samsung",
+      "photo": "https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/36/3615607/Smartfon-SAMSUNG-Galaxy-M23-5G-niebieski-tyl-front.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Huawei XD",
+      "color": "grey",
+      "price": 555,
+      "category": "phone",
+      "brand": "Huawei",
+      "photo": "https://f01.esfr.pl/foto/1/111873048721/5ac922b105e1c80e463fb9b752678325/huawei-smartfon-mate-50-pro-czarny-huawei,111873048721_8.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tommy Hilfiger white t shirt",
+      "color": "white",
+      "price": 123,
+      "category": "clothes",
+      "brand": "TH",
+      "photo": "https://a.allegroimg.com/s400/11697e/7a47016f42f9a1bf0838499df9a2/KOSZULKA-MESKA-TOMMY-HILFIGER-Biala-XXL"
+    },
+    {
+      "id": 4,
+      "name": "Tommy shoes white and cos tam",
+      "color": "white",
+      "price": 299,
+      "category": "shoes",
+      "brand": "TH",
+      "photo": "https://messimo.pl/img/product_media/30001-31000/TOMMY-HILFIGER-BUTY-MESKIE-TOMMY-JEANS-LEATHER-RUNNER-BIALE-EM0EM00898-YBR-252069.jpg"
+    }
+  ]
+}
